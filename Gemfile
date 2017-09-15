@@ -12,6 +12,7 @@ gem 'rails', '~> 5.1.2'
 
 gem 'carrierwave'
 gem 'mini_magick', '3.8.0'
+gem 'bootstrap_form'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
